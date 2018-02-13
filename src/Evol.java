@@ -11,6 +11,7 @@ public class Evol {
 		Evol ev;
 System.out.prinln("Anna Shkuta was here)))))))00))))))))))))00");
 
+///for conflict
 		Scanner sc = new Scanner(System.in);
 
 		System.out.println();
